@@ -1,0 +1,46 @@
+date,description,amount,category,account,type
+2026-07-01,Salary Credited,65000.00,Income,HDFC Bank,credit
+2026-07-02,House Rent Payment,15000.00,Housing,HDFC Bank,debit
+2026-07-03,BESCOM Electricity,1450.00,Utilities,HDFC Bank,debit
+2026-07-04,Airtel Broadband,999.00,Utilities,HDFC Bank,debit
+2026-07-05,Netflix Subscription,649.00,Subscription,Credit Card,debit
+2026-07-06,Spotify Premium,119.00,Subscription,Credit Card,debit
+2026-07-08,Swiggy Delivery,450.00,Food,Credit Card,debit
+2026-07-10,Uber Commute,320.00,Transport,Credit Card,debit
+2026-07-12,Swiggy Delivery,520.00,Food,Credit Card,debit
+2026-07-14,Amazon Shopping,2400.00,Shopping,Credit Card,debit
+2026-07-15,Apollo Pharmacy,650.00,Healthcare,Credit Card,debit
+2026-07-18,Zomato Dining,1200.00,Food,Credit Card,debit
+2026-07-20,Uber Commute,310.00,Transport,Credit Card,debit
+2026-07-22,Swiggy Delivery,410.00,Food,Credit Card,debit
+2026-07-25,Groceries Supermarket,3200.00,Food,HDFC Bank,debit
+2026-07-28,BookMyShow Movie,700.00,Entertainment,Credit Card,debit
+2026-08-01,Salary Credited,65000.00,Income,HDFC Bank,credit
+2026-08-02,House Rent Payment,15000.00,Housing,HDFC Bank,debit
+2026-08-03,BESCOM Electricity,1520.00,Utilities,HDFC Bank,debit
+2026-08-04,Airtel Broadband,999.00,Utilities,HDFC Bank,debit
+2026-08-05,Netflix Subscription,649.00,Subscription,Credit Card,debit
+2026-08-06,Spotify Premium,119.00,Subscription,Credit Card,debit
+2026-08-08,Swiggy Delivery,480.00,Food,Credit Card,debit
+2026-08-11,Uber Commute,350.00,Transport,Credit Card,debit
+2026-08-14,Amazon Shopping,4100.00,Shopping,Credit Card,debit
+2026-08-15,Medplus Pharmacy,350.00,Healthcare,Credit Card,debit
+2026-08-17,Swiggy Delivery,510.00,Food,Credit Card,debit
+2026-08-20,Uber Commute,340.00,Transport,Credit Card,debit
+2026-08-23,Zomato Dining,1450.00,Food,Credit Card,debit
+2026-08-26,Groceries Supermarket,3400.00,Food,HDFC Bank,debit
+2026-08-29,Flight Ticket Indigo,9800.00,Transport,Credit Card,debit
+2026-09-01,Salary Credited,65000.00,Income,HDFC Bank,credit
+2026-09-02,House Rent Payment,15000.00,Housing,HDFC Bank,debit
+2026-09-03,BESCOM Electricity,1380.00,Utilities,HDFC Bank,debit
+2026-09-04,Airtel Broadband,999.00,Utilities,HDFC Bank,debit
+2026-09-05,Netflix Subscription,649.00,Subscription,Credit Card,debit
+2026-09-06,Spotify Premium,119.00,Subscription,Credit Card,debit
+2026-09-07,Luxury Watch Retail,24500.00,Shopping,Credit Card,debit
+2026-09-09,Swiggy Delivery,560.00,Food,Credit Card,debit
+2026-09-12,Uber Commute,330.00,Transport,Credit Card,debit
+2026-09-14,Swiggy Delivery,620.00,Food,Credit Card,debit
+2026-09-16,Amazon Shopping,1850.00,Shopping,Credit Card,debit
+2026-09-18,Apollo Pharmacy,420.00,Healthcare,Credit Card,debit
+2026-09-19,Groceries Supermarket,3600.00,Food,HDFC Bank,debit
+2026-09-20,Zomato Dining,1650.00,Food,Credit Card,debit
